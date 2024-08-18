@@ -8,3 +8,6 @@ Start app:
 
 Build app:
 ### `npm run build`
+
+## Page url
+https://elmart220.github.io/duel-game/
