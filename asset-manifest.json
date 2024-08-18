@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/duel-game/static/css/main.6a52c2dd.css",
+    "main.js": "/duel-game/static/js/main.5f6057e0.js",
+    "index.html": "/duel-game/index.html",
+    "main.6a52c2dd.css.map": "/duel-game/static/css/main.6a52c2dd.css.map",
+    "main.5f6057e0.js.map": "/duel-game/static/js/main.5f6057e0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6a52c2dd.css",
+    "static/js/main.5f6057e0.js"
+  ]
+}
